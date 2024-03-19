@@ -1,4 +1,8 @@
 To run the code:
+- Download the Database Script text file.
+- Create your database there
+- You can insert data init. It is provided in the text file. (provided by prof)
+
 - open the code
 - uupdate your "database", "postgres", "host", "password", "port" information
 - open cmd
@@ -10,5 +14,6 @@ To run the code:
 - to update a student' email press 3, provide correct information
 - to delete a student press 4, and provide student' number
 - to exit the program, press 5
+
 
 To watch the video: https://youtu.be/1hKwmbjexAQ
